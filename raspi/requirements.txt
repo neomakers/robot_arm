@@ -10,4 +10,3 @@ spidev
 sense-hat
 picamera2
 gpiozero
-socket
