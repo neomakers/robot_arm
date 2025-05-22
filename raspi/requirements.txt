@@ -1,0 +1,13 @@
+# requirements.txt
+numpy
+pandas
+opencv-python
+torch
+pigpio
+rpi-lgpio
+smbus2
+spidev
+sense-hat
+picamera2
+gpiozero
+socket
